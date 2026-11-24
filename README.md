@@ -1,6 +1,6 @@
 # Ciao, sono Valeriu 👋
 
-Sviluppo siti web e videogiochi da Pordenone. Mi piace costruire cose che la gente usa davvero: siti semplici e veloci, prototipi e giochi da fare in compagnia.
+Sviluppo siti web e videogiochi da Pordenone. Mi piace costruire cose che la gente usa davvero: siti semplici e veloci, prototipi e giochi da fare in compagnia. Uso Claude Code nel lavoro di tutti i giorni per sviluppare più in fretta e con più cura.
 
 ## 🌐 Siti web
 
@@ -19,4 +19,8 @@ Sviluppo siti web e videogiochi da Pordenone. Mi piace costruire cose che la gen
 
 ## 🛠️ Con cosa lavoro
 
-HTML · CSS · JavaScript · Godot · GitHub Pages
+HTML · CSS · JavaScript · Godot · Claude Code · GitHub Pages
+
+## 📜 Formazione
+
+- **Claude Code in action**, Claude Academy (Anthropic) · novembre 2026 · [verifica](https://academy.claude.com/verify/3d56b2fceb2387b707a58ae6bdeced5c)
